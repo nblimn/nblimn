@@ -1,7 +1,7 @@
 Hi 👋 My name is Nabil Iman
 ===========================
 
-2nd year Computer Network Student
+3rd year Computer Network Student
 ---------------------------------
 
 I've only recently have been diving into web development, I have a background in coding both formal and informal education. I like to explore challenging things outside the realm of the digital space. I'm very active in university activities and I have a deep passion in doing PR work as well.
